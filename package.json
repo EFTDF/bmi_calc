@@ -1,0 +1,17 @@
+{
+  "name": "bmi-form---start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bmi_calc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bmi_calc.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "body-parser": "^1.19.0",
+    "pug": "^3.0.2"
+  }
+}
